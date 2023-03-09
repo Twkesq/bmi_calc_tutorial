@@ -1,4 +1,4 @@
-# bmi_calculator
+# BMI calculator
 
 A BMI Calculator from Tutorial
 
